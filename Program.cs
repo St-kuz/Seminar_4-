@@ -20,7 +20,7 @@ vstep(A, B);
 // 82 -> 10
 // 9012 -> 12
 
-Console.WriteLine("Введите число: 12345 ");
+Console.WriteLine("Введите число: ");
 int youNumber = Convert.ToInt32(Console.ReadLine());
 int sum = 0;
 
